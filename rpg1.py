@@ -693,26 +693,3 @@ def main():
     hub()
 
 main()
-
-
-#implement skills and learning both skills and spells
-#expand item, spell/skill, equipment and monster list
-#more flavor text (randomized drops)
-
-#part change when a boss is killed + select in explore
-#monster item drops
-#implement easy selection plugin so people don't have to write everything in (test it first)
-
-#town (Armory, Vendor etc.)
-
-#multi files for flavor, monsters, items, spells...
-
-#secret treasure enemies?
-#statistics of killed enemies
-#title screen
-#info on title
-#new game, save and load on title
-
-
-#mpg123 and music
-#harder modes
